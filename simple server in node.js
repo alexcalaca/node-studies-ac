@@ -1,4 +1,4 @@
-//simple server in node.js
+//simple server in node.js - AC Alexandre Calaça
 
 const http = require('http');
 
