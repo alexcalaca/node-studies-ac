@@ -1,2 +1,13 @@
 {
+    {
+        "id": 0,
+        "productName": "Banana",
+        "image": "https://spng.subpng.com/20180704/oxk/kisspng-banana-bread-banana-cake-upside-down-cake-emoji-glade-5b3cdcbfb17725.1894190115307153277269.jpg", 
+        "from": "France",
+        "nutrients": "Potassium, Vitamin K",
+        "quantity": 3,
+        "price": "5.50",
+        "organic": true,
+        "description": "Simple "
+    }
 }
