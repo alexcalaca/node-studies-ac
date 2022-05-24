@@ -2,23 +2,24 @@
     {
         "id": 0,
         "productName": "Eggplant",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/1200px-Twemoji_1f346.svg.png", 
+        "image": "🍆", 
         "from": "Italy",
         "nutrients": "Calcium, Vitamin K",
-        "quantity": 4,
+        "quantity": "4 🍆",
         "price": "9.50",
         "organic": true,
         "description": "Simple "
     },
     {
-        "id": 0,
+        "id": 1,
         "productName": "Banana",
-        "image": "https://spng.subpng.com/20180704/oxk/kisspng-banana-bread-banana-cake-upside-down-cake-emoji-glade-5b3cdcbfb17725.1894190115307153277269.jpg", 
+        "image": "🍌", 
         "from": "France",
         "nutrients": "Potassium, Vitamin K",
-        "quantity": 3,
+        "quantity": "3 🍌",
         "price": "5.50",
         "organic": true,
         "description": "Simple "
     }
+    
 ]
