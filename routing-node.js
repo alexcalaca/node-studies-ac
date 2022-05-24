@@ -8,5 +8,7 @@ const server = http.createServer(( req, res) => {
         
     if(pathName === '/' || pathName === '/overview'){
         res.end('This is the overview path');
+    } else if (pathName === '/product') {
+        res.end('This is the product path');
     } 
   });
