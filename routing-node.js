@@ -10,5 +10,7 @@ const server = http.createServer(( req, res) => {
         res.end('This is the overview path');
     } else if (pathName === '/product') {
         res.end('This is the product path');
+    } else if (pathName === '/api') {
+        res.end('This is the api path');
     } 
   });
