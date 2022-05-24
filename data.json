@@ -1,4 +1,4 @@
-{
+[
     {
         "id": 0,
         "productName": "Eggplant",
@@ -21,4 +21,4 @@
         "organic": true,
         "description": "Simple "
     }
-}
+]
