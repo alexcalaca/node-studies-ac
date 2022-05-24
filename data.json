@@ -4,7 +4,7 @@
         "productName": "Eggplant",
         "image": "🍆", 
         "from": "Italy",
-        "nutrients": "Calcium, Vitamin K",
+        "nutrients": "Folate, Manganese",
         "quantity": "4 🍆",
         "price": "9.50",
         "organic": true,
@@ -15,9 +15,20 @@
         "productName": "Banana",
         "image": "🍌", 
         "from": "France",
-        "nutrients": "Potassium, Vitamin K",
+        "nutrients": "Potassium, vitamin B6",
         "quantity": "3 🍌",
         "price": "5.50",
+        "organic": true,
+        "description": "Simple "
+    }
+    {
+        "id": 2,
+        "productName": "Kiwi",
+        "image": "🥝", 
+        "from": "Italy",
+        "nutrients": "Fiber, Vitamin K",
+        "quantity": "2 🥝",
+        "price": "19.50",
         "organic": true,
         "description": "Simple "
     }
